@@ -1,0 +1,13 @@
+{
+  "name": "web-scrapping-mitre",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/gegestalt/web-scrapping-mitre.git",
+  "author": "gegestalt <guneyunal@sabanciuniv.edu>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "puppeteer": "^23.1.0"
+  }
+}
